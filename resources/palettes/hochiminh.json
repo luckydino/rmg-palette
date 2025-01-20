@@ -1,0 +1,123 @@
+[
+    {
+        "id": "hcm1",
+        "colour": "#0079b8",
+        "fg": "#fff",
+        "name": {
+            "en": "Line 1",
+            "vi": "Tuyến số 1",
+            "zh-Hans": "1号线",
+            "zh-Hant": "1號線"
+        }
+    },
+    {
+        "id": "hcm2",
+        "colour": "#cc205f",
+        "fg": "#fff",
+        "name": {
+            "en": "Line 2",
+            "vi": "Tuyến số 2",
+            "zh-Hans": "2号线",
+            "zh-Hant": "2號線"
+        }
+    },
+    {
+        "id": "hcm3a",
+        "colour": "#fb7d37",
+        "fg": "#fff",
+        "name": {
+            "en": "Line 3A",
+            "vi": "Tuyến số 3A",
+            "zh-Hans": "3A号线",
+            "zh-Hant": "3A號線"
+        }
+    },
+    {
+        "id": "hcm3b",
+        "colour": "#fb7d37",
+        "fg": "#fff",
+        "name": {
+            "en": "Line 3B",
+            "vi": "Tuyến số 3B",
+            "zh-Hans": "3B号线",
+            "zh-Hant": "3B號線"
+        }
+    },
+    {
+        "id": "hcm4",
+        "colour": "#97cf6f",
+        "fg": "#fff",
+        "name": {
+            "en": "Line 4",
+            "vi": "Tuyến số 4",
+            "zh-Hans": "4号线",
+            "zh-Hant": "4號線"
+        }
+    },
+    {
+        "id": "hcm4b",
+        "colour": "#97cf6f",
+        "fg": "#fff",
+        "name": {
+            "en": "Line 4B",
+            "vi": "Tuyến số 4B",
+            "zh-Hans": "4B号线",
+            "zh-Hant": "4B號線"
+        }
+    },
+    {
+        "id": "hcm5",
+        "colour": "#e690bb",
+        "fg": "#fff",
+        "name": {
+            "en": "Line 5",
+            "vi": "Tuyến số 5",
+            "zh-Hans": "5号线",
+            "zh-Hant": "5號線"
+        }
+    },
+    {
+        "id": "hcm6",
+        "colour": "#ab7c65",
+        "fg": "#fff",
+        "name": {
+            "en": "Line 6",
+            "vi": "Tuyến số 6",
+            "zh-Hans": "6号线",
+            "zh-Hant": "6號線"
+        }
+    },
+    {
+        "id": "hcmt1",
+        "colour": "#53c5e0",
+        "fg": "#fff",
+        "name": {
+            "en": "Tramway 1",
+            "vi": "Tuyến Tramway số 1",
+            "zh-Hans": "T1号线",
+            "zh-Hant": "T1號線"
+        }
+    },
+    {
+        "id": "hcmm2",
+        "colour": "#894e9a",
+        "fg": "#fff",
+        "name": {
+            "en": "Monorail 2",
+            "vi": "Tuyến Monorail 2",
+            "zh-Hans": "M2号线",
+            "zh-Hant": "M2號線"
+        }
+    },
+    {
+        "id": "hcmm3",
+        "colour": "#87898b",
+        "fg": "#fff",
+        "name": {
+            "en": "Monorail 3",
+            "vi": "Tuyến Monorail 3",
+            "zh-Hans": "M3号线",
+            "zh-Hant": "M3號線"
+        }
+    }
+]
